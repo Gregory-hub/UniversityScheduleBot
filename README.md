@@ -4,6 +4,7 @@ Can print: <br/>
 * schedule for next day
 * week schedule (even if it differs from week to week)
 * day schedule
+<br/>
 Uses API of Saint Petersburg Electrotechnical University "LETI" to fetch schedule. <br/>
 <br/>
 Uses PostgreSQL for storing user data, including group number. This allows user to specify group number only the first time. <br/>
