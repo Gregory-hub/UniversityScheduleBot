@@ -1,4 +1,4 @@
-# A Telegram bot for getting my university schedule <br/>
+# A Telegram bot for printing my university schedule <br/>
 Can print: <br/>
 * next lesson
 * schedule for next day
